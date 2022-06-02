@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Delius&family=Lobster&family=Pacifico&family=Palette+Mosaic&family=Plus+Jakarta+Sans:ital,wght@1,500&family=Shrikhand&family=Source+Code+Pro:wght@700&display=swap');
+*{
+    font-family: 'Source Code Pro', monospace;
+}
+/*LIGHT MODE*/
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #FDFEFE ;
+	color: #34495E ;
+}
+main{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+footer{
+    align-items: center;
+    padding: 16px;
+    background-color: #808B96;
+    color: #34495E;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+	text-align: center;
+	font-weight: 400;
+}
+button{
+
+    border: 2px solid #808B96;
+    border-radius: 50px;
+    height: 150px;
+    width: 400px;
+    font-size: 24px;
+    background-color: #FDFEFE;
+    color: #17202A;
+}
+/*DARK MODE*/
+body.dark-mode{
+    background-color: #1C2833;
+	color: #D6DBDF ;
+}
+footer.dark-mode{
+    background-color: #2C3E50  ;
+	color: #D6DBDF;
+}
+button.dark-mode{
+    background-color: #273746;
+    color: #F8F9F9 ;
+}
