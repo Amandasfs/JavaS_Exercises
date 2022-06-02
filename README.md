@@ -10,11 +10,11 @@
 
 🤍 <a href="https://github.com/Amandasfs/JavaS_Exercises/tree/main/Colecoes">Coleções</a>
 
-🧡 <a href="https://github.com/Amandasfs/JavaS_Exercises/tree/main/DOM/assets">DOM</a>
+🤍 <a href="https://github.com/Amandasfs/JavaS_Exercises/tree/main/DOM/assets">DOM</a>
 
-🧡 <a href="https://github.com/Amandasfs/JavaS_Exercises/tree/main/DebugError">Debug e Error</a>
+🤍 <a href="https://github.com/Amandasfs/JavaS_Exercises/tree/main/DebugError">Debug e Error</a>
 
-🤍 <a href="https://github.com/Amandasfs/JavaS_Exercises/tree/main/IntroducaoJS">Introdução a Java Script</a>
+🧡 <a href="https://github.com/Amandasfs/JavaS_Exercises/tree/main/IntroducaoJS">Introdução a Java Script</a>
 
 🤍 <a href="https://github.com/Amandasfs/JavaS_Exercises/tree/main/Fucoes">Fuções</a>
 
